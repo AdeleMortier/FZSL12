@@ -2,47 +2,74 @@ This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: FZSL12_devoir_MORTIER_Adèle.aux
 The style file: frplain.bst
-I found no \citation commands---while reading file FZSL12_devoir_MORTIER_Adèle.aux
 Database file #1: bibliography.bib
-You've used 0 entries,
+Warning--empty publisher in Barbaro1990
+Warning--empty publisher in Barres1903
+Warning--empty publisher in Brodsky1982
+Warning--empty publisher in Byron1812
+Warning--empty publisher in DAnnunzio1899
+Warning--empty publisher in Brosses1739
+Warning--empty publisher in Goncourt1855
+Warning--empty publisher in Regnier1924
+Warning--empty publisher in Regnier1906
+Warning--empty publisher in Gautier1852
+Warning--empty publisher in Giono1954
+Warning--empty publisher in Hesse1901
+Warning--empty publisher in James1909
+Warning--empty publisher in LAretin1537
+Warning--empty publisher in Melville1856
+Warning--empty publisher in Morand1971
+Warning--empty title in Proust1927
+Warning--empty publisher in Proust1927
+Warning--empty publisher in Rousseau1781
+Warning--empty publisher in Sand1838
+Warning--empty publisher in Sartre1952
+Warning--empty publisher in Sartre1962
+Warning--empty publisher in Sartre1964
+Warning--empty publisher in Suares1910
+Warning--empty publisher in Taine1866
+Warning--empty publisher in Turner1843
+Warning--empty publisher in Vircondelet1979
+Warning--empty publisher in Wagner1870
+You've used 29 entries,
             2159 wiz_defined-function locations,
-            510 strings with 4331 characters,
-and the built_in function-call counts, 18 in all, are:
-= -- 0
-> -- 0
-< -- 0
-+ -- 0
-- -- 0
-* -- 2
-:= -- 7
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
+            662 strings with 6482 characters,
+and the built_in function-call counts, 6721 in all, are:
+= -- 593
+> -- 214
+< -- 1
++ -- 91
+- -- 62
+* -- 321
+:= -- 1148
+add.period$ -- 98
+call.type$ -- 29
+change.case$ -- 89
 chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 1
-format.name$ -- 0
-if$ -- 1
+cite$ -- 57
+duplicate$ -- 374
+empty$ -- 700
+format.name$ -- 62
+if$ -- 1435
 int.to.chr$ -- 0
-int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 3
-num.names$ -- 0
-pop$ -- 0
+int.to.str$ -- 29
+missing$ -- 46
+newline$ -- 149
+num.names$ -- 58
+pop$ -- 261
 preamble$ -- 1
-purify$ -- 0
+purify$ -- 89
 quote$ -- 0
-skip$ -- 1
+skip$ -- 163
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 145
+swap$ -- 30
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
-warning$ -- 0
-while$ -- 0
-width$ -- 0
-write$ -- 2
-(There was 1 error message)
+type$ -- 80
+warning$ -- 28
+while$ -- 58
+width$ -- 31
+write$ -- 278
+(There were 28 warnings)
